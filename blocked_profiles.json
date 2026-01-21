@@ -1,0 +1,31 @@
+{
+  "relationships_blocked_users": [
+    {
+      "title": "mustafathepoet",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/mustafathepoet",
+          "timestamp": 1767898376
+        }
+      ]
+    },
+    {
+      "title": "i_show_goat_",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/i_show_goat_",
+          "timestamp": 1764996371
+        }
+      ]
+    },
+    {
+      "title": "mr.astrospace",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/mr.astrospace",
+          "timestamp": 1706767834
+        }
+      ]
+    }
+  ]
+}
